@@ -16,10 +16,19 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When you have an idea to add to a file and you don't know if it's going to work. So you don't add it to
+	working file.
+
 How do the diagrams help you visualize the branch structure?
+
+	You can see if there might be a commit missing that will not show up in the history of the log.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Both of the changes that were made in each branch are represented in the new version.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	You don't have as much work to do and this reduces the possibility of mistakes that can be made.
